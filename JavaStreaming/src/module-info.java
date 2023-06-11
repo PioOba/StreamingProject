@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Piotrek
+ *
+ */
+module JavaStreaming {
+}
